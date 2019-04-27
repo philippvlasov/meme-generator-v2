@@ -1,15 +1,15 @@
 {
-  "main.css": "/meme-generator-v2/build/static/css/main.95b6da47.chunk.css",
-  "main.js": "/meme-generator-v2/build/static/js/main.5d403abb.chunk.js",
-  "main.js.map": "/meme-generator-v2/build/static/js/main.5d403abb.chunk.js.map",
-  "runtime~main.js": "/meme-generator-v2/build/static/js/runtime~main.8f3565dc.js",
-  "runtime~main.js.map": "/meme-generator-v2/build/static/js/runtime~main.8f3565dc.js.map",
-  "static/css/2.b45a8ab3.chunk.css": "/meme-generator-v2/build/static/css/2.b45a8ab3.chunk.css",
-  "static/js/2.a6e951fb.chunk.js": "/meme-generator-v2/build/static/js/2.a6e951fb.chunk.js",
-  "static/js/2.a6e951fb.chunk.js.map": "/meme-generator-v2/build/static/js/2.a6e951fb.chunk.js.map",
-  "index.html": "/meme-generator-v2/build/index.html",
-  "precache-manifest.6f9c26107720ffe00fd97db43879f401.js": "/meme-generator-v2/build/precache-manifest.6f9c26107720ffe00fd97db43879f401.js",
-  "service-worker.js": "/meme-generator-v2/build/service-worker.js",
-  "static/css/2.b45a8ab3.chunk.css.map": "/meme-generator-v2/build/static/css/2.b45a8ab3.chunk.css.map",
-  "static/css/main.95b6da47.chunk.css.map": "/meme-generator-v2/build/static/css/main.95b6da47.chunk.css.map"
+  "main.css": "/meme-generator-v2/static/css/main.95b6da47.chunk.css",
+  "main.js": "/meme-generator-v2/static/js/main.057e94af.chunk.js",
+  "main.js.map": "/meme-generator-v2/static/js/main.057e94af.chunk.js.map",
+  "runtime~main.js": "/meme-generator-v2/static/js/runtime~main.85078bf1.js",
+  "runtime~main.js.map": "/meme-generator-v2/static/js/runtime~main.85078bf1.js.map",
+  "static/css/2.b45a8ab3.chunk.css": "/meme-generator-v2/static/css/2.b45a8ab3.chunk.css",
+  "static/js/2.a6e951fb.chunk.js": "/meme-generator-v2/static/js/2.a6e951fb.chunk.js",
+  "static/js/2.a6e951fb.chunk.js.map": "/meme-generator-v2/static/js/2.a6e951fb.chunk.js.map",
+  "index.html": "/meme-generator-v2/index.html",
+  "precache-manifest.ddc1e4b154f72ab87aee0e8c85f2d4c6.js": "/meme-generator-v2/precache-manifest.ddc1e4b154f72ab87aee0e8c85f2d4c6.js",
+  "service-worker.js": "/meme-generator-v2/service-worker.js",
+  "static/css/2.b45a8ab3.chunk.css.map": "/meme-generator-v2/static/css/2.b45a8ab3.chunk.css.map",
+  "static/css/main.95b6da47.chunk.css.map": "/meme-generator-v2/static/css/main.95b6da47.chunk.css.map"
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/meme-generator-v2/build/precache-manifest.6f9c26107720ffe00fd97db43879f401.js"
+  "/meme-generator-v2/precache-manifest.ddc1e4b154f72ab87aee0e8c85f2d4c6.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/meme-generator-v2/build/index.html", {
+workbox.routing.registerNavigationRoute("/meme-generator-v2/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
