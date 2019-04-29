@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/meme-generator-v2/static/css/2.b45a8ab3.chunk.css"
   },
   {
-    "revision": "2ae733cef0fdd39c50d50accdc92deae",
+    "revision": "3cce382d2c1643254b8f16c118d729fd",
     "url": "/meme-generator-v2/index.html"
   }
 ];
